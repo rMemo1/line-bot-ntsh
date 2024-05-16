@@ -1,2 +1,3 @@
 line-bot-sdk
 flask
+gunicornhttps://github.com/rMemo1/line-bot-ntsh/blob/master/requirements.txt
